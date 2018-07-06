@@ -11,18 +11,27 @@
     
     
     <item>
-      <title>English</title>
-      <link>http://gczeng.github.io/categories/english/</link>
-      <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate>
+      <title>Development</title>
+      <link>http://gczeng.github.io/categories/development/</link>
+      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://gczeng.github.io/categories/english/</guid>
+      <guid>http://gczeng.github.io/categories/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Golang</title>
+      <link>http://gczeng.github.io/categories/golang/</link>
+      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://gczeng.github.io/categories/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Index</title>
       <link>http://gczeng.github.io/categories/index/</link>
-      <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate>
+      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
       <guid>http://gczeng.github.io/categories/index/</guid>
       <description></description>
