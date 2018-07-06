@@ -1,2 +1,0 @@
-# gczeng.github.io
-blog
